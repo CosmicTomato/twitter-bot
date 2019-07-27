@@ -7,7 +7,7 @@ var T = new Twitter(config);
 
 // Set up your search parameters
 var params = {
-  q: '#2_am',
+  q: '#2am',
   count: 50,
   result_type: 'recent',
   lang: 'en'
